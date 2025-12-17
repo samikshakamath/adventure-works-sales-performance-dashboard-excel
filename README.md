@@ -1,4 +1,8 @@
 # Adventure Works Sales Performance Dashboard – Microsoft Excel
+## Dashboard Preview
+
+![Adventure Works Sales Performance Dashboard](adventure-works-sales-dashboard.png)
+
 ## Project Overview
 This project involves the development of an **interactive sales performance and profitability dashboard** for the Adventure Works dataset using Microsoft Excel. The dashboard is designed to support **executive-level business analysis** by consolidating financial, transactional, and temporal performance metrics into a single analytical view.
 
